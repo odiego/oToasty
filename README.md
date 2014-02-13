@@ -5,7 +5,7 @@ A simple jQuery snipet for Big Dan of Mortal Kombat's "Toasty" using Konami Code
 
 ----------------------------------------------------------------
 
-For the demo: http://odiego.github.com/oToasty
+For the demo: http://odiego.com.br/oToasty
 
 ####How to use:
 
